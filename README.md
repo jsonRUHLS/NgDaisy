@@ -1,4 +1,5 @@
 # NgDaisy
+NgDaisies simple and sweet, develop and deploy Angular apps and websites with the JAMStack
 
 This project was generated using [Nx](https://nx.dev).
 
